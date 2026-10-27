@@ -14,13 +14,63 @@
 
 </div>
 
+## 📱 ERIUS PHONE
+**Real Android phones in the cloud, built for AI agents**
+
+> Give your AI agent a real phone: read the screen, tap, type, install apps, make AI calls. Connect through the REST API or our MCP server in one command.
+
+<p>
+  <a href="https://eriusphone.com"><img src="https://img.shields.io/badge/🌐-eriusphone.com-1a1a1a?style=flat-square" alt="Website"></a>
+  <a href="https://github.com/Protremix/erius-phone-mcp"><img src="https://img.shields.io/badge/GitHub-erius--phone--mcp-0d1117?style=flat-square&logo=github" alt="erius-phone-mcp"></a>
+  <img src="https://img.shields.io/badge/for-AI_agents-f15a24?style=flat-square" alt="AI agents">
+  <img src="https://img.shields.io/badge/protocol-MCP-9333ea?style=flat-square" alt="MCP">
+</p>
+
+- 🤖 Real Android devices, not emulators
+- 🔌 REST API and hosted MCP endpoint
+- 📞 AI voice calls, separate from SIM telephony
+- 🧾 Per-action log and run history
+
+*Developed by Protremix Technology.*
+
+---
+
+## 🛠️ Buildvio
+**Build any AI project, at any level**
+
+> Describe what you need and Buildvio builds the project: apps, agents and workflows, with a plain-language path from idea to a live product.
+
+<p>
+  <a href="https://buildvio.io"><img src="https://img.shields.io/badge/🌐-buildvio.io-1a1a1a?style=flat-square" alt="Website"></a>
+  <img src="https://img.shields.io/badge/languages-12-06b6d4?style=flat-square" alt="12 languages">
+</p>
+
+- 🧩 Apps, agents and workflows from a description
+- 🌍 12 interface languages
+- 🚀 Managed deploy to your own server
+
+*Developed by Protremix Technology.*
+
+---
+
+## 🗣️ James
+**A personal AI agent, available 24/7**
+
+> One assistant across Telegram, mobile app and web, with shared memory and voice, and strictly separated data per person.
+
+- 💬 Telegram, app and web with one history
+- 🧠 Semantic memory
+- 🔐 Per-user data isolation
+
+---
+
 ## 🌿 Verdis Chain
 **Carbon-Negative Layer-1 Blockchain**
 
 > DPoS consensus with native AMM DEX, eco-friendly carbon credits, and AI-native tooling. Built on Substrate.
 
 <p>
-  <a href="https://github.com/Protremix/Verdischain"><img src="https://img.shields.io/badge/GitHub-Verdischain-0d1117?style=flat-square&logo=github" alt="Verdis Chain"></a>
+  <a href="https://github.com/Protremix/Verdischain-"><img src="https://img.shields.io/badge/GitHub-Verdischain-0d1117?style=flat-square&logo=github" alt="Verdis Chain"></a>
   <a href="https://verdischain.com"><img src="https://img.shields.io/badge/🌐-verdischain.com-1a1a1a?style=flat-square" alt="Website"></a>
   <img src="https://img.shields.io/badge/consensus-DPoS-22c55e?style=flat-square" alt="DPoS">
   <img src="https://img.shields.io/badge/framework-Substrate-ec4899?style=flat-square" alt="Substrate">
@@ -62,7 +112,7 @@
 > Autonomous agent system with safety-guaranteed execution, world modeling, simulation, and hardware integration.
 
 <p>
-  <a href="https://github.com/Protremix/Grovim"><img src="https://img.shields.io/badge/GitHub-Grovim-0d1117?style=flat-square&logo=github" alt="Grovim"></a>
+  <a href="https://grovim.io"><img src="https://img.shields.io/badge/GitHub-Grovim-0d1117?style=flat-square&logo=github" alt="Grovim"></a>
   <img src="https://img.shields.io/badge/domain-Physical_AI-orange?style=flat-square" alt="Physical AI">
   <img src="https://img.shields.io/badge/safety-guaranteed-22c55e?style=flat-square" alt="Safety">
 </p>
@@ -80,7 +130,7 @@
 > Unified loyalty platform with QR-based check-ins, cashback, and merchant tools.
 
 <p>
-  <a href="https://github.com/Protremix/Anerium"><img src="https://img.shields.io/badge/GitHub-Anerium-0d1117?style=flat-square&logo=github" alt="Anerium"></a>
+  <a href="https://github.com/Protremix/Anerium-"><img src="https://img.shields.io/badge/GitHub-Anerium-0d1117?style=flat-square&logo=github" alt="Anerium"></a>
   <img src="https://img.shields.io/badge/type-Loyalty_Platform-f59e0b?style=flat-square" alt="Loyalty">
   <img src="https://img.shields.io/badge/QR-powered-22c55e?style=flat-square" alt="QR">
 </p>
@@ -89,6 +139,17 @@
 - 💰 Cashback & rewards engine
 - 🏪 Merchant dashboard
 - 🌐 Multi-language support
+
+---
+
+## 🛡️ GFIN
+**Global Fraud Intelligence Network**
+
+> AI-powered fraud detection, security scanning and threat intelligence.
+
+<p>
+  <a href="https://github.com/Protremix/gfin-platform"><img src="https://img.shields.io/badge/GitHub-gfin--platform-0d1117?style=flat-square&logo=github" alt="GFIN"></a>
+</p>
 
 ---
 
