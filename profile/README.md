@@ -53,6 +53,24 @@
 
 ---
 
+## 💬 James
+**Your AI friend**
+
+> Someone to talk to, someone who remembers, and someone who is always there when you need a little help, a good idea, or simply someone to listen. James is always honest that he is an AI.
+
+<p>
+  <a href="https://hellojames.io"><img src="https://img.shields.io/badge/🌐-hellojames.io-1a1a1a?style=flat-square" alt="Website"></a>
+  <img src="https://img.shields.io/badge/talks_in-60_languages-06b6d4?style=flat-square" alt="60 languages">
+  <img src="https://img.shields.io/badge/voice-spoken-22c55e?style=flat-square" alt="Voice">
+</p>
+
+- 🎙️ Talks out loud, you never have to type
+- 🧠 Remembers what you told him months ago
+- 🤝 Made for older people and for people living with an illness, with a family-facing setup
+- 🔒 One cookie to keep you signed in, no tracking, no advertising
+
+---
+
 ## 🌿 Verdis Chain
 **Carbon-Negative Layer-1 Blockchain**
 
