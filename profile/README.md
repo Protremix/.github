@@ -53,17 +53,6 @@
 
 ---
 
-## 🗣️ James
-**A personal AI agent, available 24/7**
-
-> One assistant across Telegram, mobile app and web, with shared memory and voice, and strictly separated data per person.
-
-- 💬 Telegram, app and web with one history
-- 🧠 Semantic memory
-- 🔐 Per-user data isolation
-
----
-
 ## 🌿 Verdis Chain
 **Carbon-Negative Layer-1 Blockchain**
 
